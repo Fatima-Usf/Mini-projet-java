@@ -13,6 +13,7 @@
 <ul> <strong> team du projet </strong>
 <li> Fatima YOUCEF </li>
 <li> Fouzi HAMMOUDA </li>
+<li> Mahdi ZAROUR </li>
 <li> Zoulikha SELLSELET ATTOU </li>
 <li> Hocine MGHAZZI </li>
 <li> Anis HAMOU </li>
