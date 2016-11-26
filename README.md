@@ -4,13 +4,13 @@
 <li> vous aurez qu'inserer les ingrédient que vous avez </li>
 <li> elle vous donnera les recettes disponible en fonction des ingrédient que vous avez donnez  </li>
 </ul>
-<ol> <strong> le but de cette application est : </strong>
+<ol> <strong> Le but de cette application est : </strong>
 <li> facilité l'apprentissage de cuisiner </li>
 <li> aider a choisir des recettes dans une fraction de second </li>
 <li> gestion de temps </li>
 <li> insérer et savgarder ses propres recettes </li>
 </ol>
-<ul> <strong> team du projet </strong>
+<ul> <strong> Team du projet </strong>
 <li> <a href="https://github.com/Fatima-YF"> Fatima YOUCEF </a>  </li>
 <li> <a href="https://github.com/Fouzihammouda"> Fouzi HAMMOUDA </a> </li>
 <li><a href="https://github.com/rezeroworld"> Mahdi ZAROUR </a></li>
