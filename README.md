@@ -11,11 +11,11 @@
 <li> insérer et savgarder ses propres recettes </li>
 </ol>
 <ul> <strong> team du projet </strong>
-<li> Fatima YOUCEF </li>
-<li> Fouzi HAMMOUDA </li>
-<li> Mahdi ZAROUR </li>
-<li> Zoulikha SELLSELET ATTOU </li>
-<li> Hocine MGHAZZI </li>
-<li> Anis HAMOU </li>
+<li> <a href="https://github.com/Fatima-YF"> Fatima YOUCEF </a>  </li>
+<li> <a href="https://github.com/Fouzihammouda"> Fouzi HAMMOUDA </a> </li>
+<li><a href="https://github.com/rezeroworld"> Mahdi ZAROUR </a></li>
+<li> <a href="https://github.com/zouzou98">Zoulikha SELLSELET ATTOU</a> </li>
+<li> <a href="https://github.com/houcinemc">Hocine MGHAZZI </a></li>
+<li> <a href="https://github.com/hamouanis"> Anis HAMOU </a></li>
 
 
